@@ -1,0 +1,3 @@
+# myTop10Website
+
+i've been working on using some carousels with bootstrap in prep for my "top 10" website. I tried using 2 carousels on the same page, when i use the carousels with buttons i cant figure out how to make the buttons on the carousels control their respective images only. when i add the second carousel under the first, the first one acts as it should while the second one only shows the first image in the carousel. Also when i press the buttons in the second carousel, it nly controls the one at the top. now i switched it to basic carousels with no buttons to see if they would act normal but it seems that the second carousel does not cycle as frequently as it should, i havent been able to figure it out yet so if you happen to see this S.O.S.!!!!
