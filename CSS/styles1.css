@@ -1,0 +1,50 @@
+
+.carousel-item {
+    background-size: cover;
+    height: 100vh;
+    display: relative;
+}
+.carousel-item {
+    background-size: cover;
+    height: 100vh;
+    display: relative;
+}
+
+#JeddahSparks {
+    background-image: url("/Assets/JeddahSparks.jpg");
+    background-size: cover;
+}
+#JeddahLatifi {
+    background-image: url("/Assets/JeddahLatifi.jpg");
+    background-size: cover;
+
+}
+#JeddahMercedes {
+    background-image: url("/Assets/mercedesF1Pic.jpg");
+    background-size: cover;
+
+}
+#ImolaSenna {
+    background-image: url("/Assets/ImolaSenna.jpg");
+    background-size: cover;
+}
+#ImolaLayout {
+    background-image: url("/Assets/imolaLayout.jpg");
+    background-size: cover;
+}
+#ImolaVerstappen {
+    background-image: url("/Assets//imolaVerstappen.jpg");
+    background-size: cover;
+}
+#SilverstonePoster {
+    background-image: url("/Assets/SilverstonePoster.jpg");
+    background-size: cover;
+}
+#SilverstoneFans {
+    background-image: url("/Assets/SilverstoneFans.jpg");
+    background-size: cover;
+}
+#SilverstoneLewisHam {
+    background-image: url("/Assets/SilverstoneLewisHam.jpg");
+    background-size: cover;
+}
